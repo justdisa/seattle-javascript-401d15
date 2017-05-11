@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) 18: Deployment
+![cf](http://i.imgur.com/7v5ASc8.png) 19: Deployment (Lab 19 is deploying lab 18)
 =====================================
 
 ## Deployment, Heroku, TravisCI & Configuring Staging/Production Pipelines
